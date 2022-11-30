@@ -1,1 +1,1 @@
-# Deep-learning
+# CNN-MNIST Project
